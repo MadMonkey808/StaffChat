@@ -1,0 +1,12 @@
+name: StaffChat
+main: me.madmonkey.staffchat.Main
+version: 1.0-SNAPSHOT
+description: StaffChat plugin.
+author: MadMonkey
+commands:
+  sc:
+    description: This command let you to talk in staffchat with other staffs only.
+  scb:
+    description: This command is for builder chat only.
+  scm:
+    description: This command is only for manager/Co-Owner/Developer Chat.

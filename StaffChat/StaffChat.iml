@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>BUKKIT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -10,11 +19,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/Workspace/craftbukkit-1.8.8.jar!/" />
+          <root url="jar://$USER_HOME$/OneDrive/Bureau/Workspace/craftbukkit-1.8.8.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/Desktop/Workspace/craftbukkit-1.8.8.jar!/" />
+          <root url="jar://$USER_HOME$/OneDrive/Bureau/Workspace/craftbukkit-1.8.8.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
